@@ -5,11 +5,13 @@
 }
 
 body {
-    background-image: linear-gradient(rgb(255, 255, 0,5), rgb(0, 128, 0,5) no-repeat);
-    width: 100vh;
+    background-image: linear-gradient(rgb(255, 255, 0,5), rgb(0, 128, 0,5));
+    height: 100vh;
+    font-family: sans-serif;
+    padding: 36px 0 0;
 }
 
-.contaiiner{
+.container{
     width: 1200px;
     margin: 0 auto;
 }
